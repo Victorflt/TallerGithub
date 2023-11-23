@@ -17,5 +17,7 @@ ax.set(xlim=(0, 8), xticks=np.arange(1, 8),
 
 ax.set_title("grafica basica")
 
+print("segunda modificación")
+
 plt.savefig("grafica.png")
 plt.show()
