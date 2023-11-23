@@ -19,6 +19,7 @@ ax.set_title("grafica basica")
 
 print("segunda modificación")
 print("tercera modificación")
-
+print("tercer cambio")
+print("otro cambio")
 plt.savefig("grafica.png")
 plt.show()
